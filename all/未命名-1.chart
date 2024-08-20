@@ -1,1 +1,1 @@
-{"xAxis":{"type":"category","data":[]},"yAxis":{"type":"value"},"series":[],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
+{"xAxis":{"type":"category","data":["TPC-100W-4g-v3.0","TPC-100W-4g-Weidmuller-v2.4"]},"yAxis":{"type":"value"},"series":[],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
