@@ -1,0 +1,1 @@
+{"tooltip":{"trigger":"axis","axisPointer":{"type":"shadow"}},"legend":{"data":[],"top":"4%"},"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"xAxis":[{"type":"category","axisTick":{"show":false},"data":[]}],"yAxis":[{"type":"value"}],"series":[],"grid":{"top":"13%"},"title":{"top":"0%","left":"center"}}
